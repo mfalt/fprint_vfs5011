@@ -1131,6 +1131,7 @@ static const struct usb_id id_table[] =
 {
 	{ .vendor = 0x138a, .product = 0x0011 /* vfs5011 */ },
 	{ .vendor = 0x138a, .product = 0x0017 /* Validity device from Lenovo T440 laptops */ },
+	{ .vendor = 0x138a, .product = 0x0090 /* Validity device from Lenovo X1 Carbon laptops */ },
 	{ .vendor = 0x138a, .product = 0x0018 /* one more Validity device */ },
 	{ 0, 0, 0, },
 };
